@@ -1,5 +1,7 @@
 # Hexo publish
 public
+.deploy_git
+db.json
 
 # Logs
 logs
