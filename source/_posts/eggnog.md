@@ -1,7 +1,7 @@
 ---
 title: Eggnog
 date: 2016-12-24 09:05:41
-tags: eggnog christmas reminder
+tags: [eggnog, christmas, reminder]
 cover:
 subtitle:
 ---
