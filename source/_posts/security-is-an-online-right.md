@@ -9,7 +9,7 @@ date: 2010-03-22 17:41:20
 
 This is one of my pet-peeves courtesy of  [37Signals](http://campfirenow.com/signup) (who I usually enjoy).
 
-[![](http://www.davidkassa.com/wp-content/uploads/2010/03/security-300x231.png "Campfire &quot;upgrade&quot;")](http://www.davidkassa.com/wp-content/uploads/2010/03/security.png)
+[![](https://www.davidkassa.com/wp-content/uploads/2010/03/security-300x231.png "Campfire &quot;upgrade&quot;")](https://www.davidkassa.com/wp-content/uploads/2010/03/security.png)
 
 Security should not be an "upgrade" or an additional "feature" that needs to be paid for. Security should be considered an online right. When increased security is free everyone wins. I know that there is a cost associated with security (in this case SSL increases bandwidth).
 
