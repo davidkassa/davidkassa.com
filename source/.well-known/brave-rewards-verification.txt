@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: davidkassa.com
+Token: 6dce16d68ca9c1630a254e8495b9237af9885832e3f3a2af22bc5e93eaf16817
