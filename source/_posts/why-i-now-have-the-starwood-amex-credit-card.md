@@ -9,7 +9,7 @@ date: 2010-01-14 11:24:29
 
 **Update: **If you like this article and decide to sign up for a starwood amex, please fill out this form: [http://goo.gl/KS13L](http://goo.gl/KS13L). You will get up to the 25,000 points mentioned in my post. I also get some points for referrals.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---
 
 I just received my new Starwood Preferred Guest Credit Card from American Express in the mail and can't wait to use it! Not only because I'll be booking my trip to Paris ([Trip-It](http://www.tripit.com/trip/public/id/BA07653D1ED7  )) with it but because it is a great credit card to have in my arsenal.
 
